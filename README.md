@@ -4,7 +4,7 @@ And why should you take action in the decarbonization and the energy transition.
 
 ## CO2 emissions are causing our atmosphere, land, and oceans to warm at an unprecedented rate
 
-* CO2 emissions are accumulating in our atmosphere, remain between 300 - 1,000 Years, and the changes in atmospheric composition are enhancing the natural greenhouse effect causing global warming. <sub>_[Source 1]_</sub> 
+* CO2 emissions are accumulating in our atmosphere, remain between 300 - 1,000 Years, and the changes in atmospheric composition are enhancing the natural greenhouse effect causing global warming. [^1
 
 * **2019 atmospheric CO2 concentrations were higher than at any time in the last 2 million years**  
 Global Average CO2 Concentrations have increased to 410 ppm in 2019 from 280 ppm (parts per million) in 1850 (representing pre-industrial comparison period). [[Source]] 
@@ -57,5 +57,5 @@ Special thanks to LeoColomb for the open-source website design and code.
 ---
 
 ## Sources
-* [1] (https://royalsociety.org/topics-policy/publications/2010/climate-change-summary-science/)
+*[^1]: [Summary of the Science] (https://royalsociety.org/topics-policy/publications/2010/climate-change-summary-science/)
 
