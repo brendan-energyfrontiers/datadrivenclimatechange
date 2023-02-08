@@ -1,13 +1,13 @@
 # Why is it so important to reduce global CO2 emissions to net zero by 2050? (Key Data Points You Have To Understand)
 
-Also, why should you take action in the decarbonization and the energy transition.
+And why should you take action in the decarbonization and the energy transition.
 
 ## CO2 emissions are causing our atmosphere, land, and oceans to warm at an unprecedented rate
 
-* CO2 emissions are accumulating in our atmosphere, remain between 300 - 1,000 Years, and the changes in atmospheric composition are enhancing the natural greenhouse effect causing global warming.
+* CO2 emissions are accumulating in our atmosphere, remain between 300 - 1,000 Years, and the changes in atmospheric composition are enhancing the natural greenhouse effect causing global warming. _[#1]_ 
 
 * **2019 atmospheric CO2 concentrations were higher than at any time in the last 2 million years**  
-Global Average CO2 Concentrations have increased to 410 ppm in 2019 from 280 ppm (parts per million) in 1850 (representing pre-industrial comparison period). 
+Global Average CO2 Concentrations have increased to 410 ppm in 2019 from 280 ppm (parts per million) in 1850 (representing pre-industrial comparison period). [[Source]] 
 
 * **The current rate of global warming is unprecedented in at least the last 2,000 years**
 Global Average Surface Temperature was 1.09°C  higher in 2011-2020 than in 1850-1900. 
@@ -53,3 +53,9 @@ The data points above were summarized from the Intergovernmental Panel of Climat
 This page licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Special thanks to LeoColomb for the open-source website design and code.
+
+---
+
+## Sources
+* [1] (https://royalsociety.org/topics-policy/publications/2010/climate-change-summary-science/)
+
