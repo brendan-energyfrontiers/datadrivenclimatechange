@@ -57,5 +57,5 @@ Special thanks to LeoColomb for the open-source website design and code.
 ---
 
 ## Sources
-*[^1]: [Summary of the Science] (https://royalsociety.org/topics-policy/publications/2010/climate-change-summary-science/)
+[^1]: [Summary of the Science] (https://royalsociety.org/topics-policy/publications/2010/climate-change-summary-science/)
 
